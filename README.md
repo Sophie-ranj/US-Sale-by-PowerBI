@@ -3,9 +3,9 @@ I'm excited to share my latest Power BI project: a dashboard designed to visuali
 
 ![excel](https://github.com/Sophie-ranj/DataAnalyst_Portfolio_Excel/assets/21998543/8df76a66-900d-4b0c-aa18-c90e08f98505)
 
-![Sales Dashboard Screenshot](https://imgur.com/a/ZOwu9qJ)
+![Sales Dashboard Screenshot]([dashboard.jpg](https://postimg.cc/vc7fff8X))
 
-
+![dashboard.jpg](https://postimg.cc/vc7fff8X)
 ## Dashboard Design Choices
 
 ### ✔️ Top-Level Overview: 
