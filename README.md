@@ -26,7 +26,7 @@ Next Steps
 
 While I'm happy with the current state of the dashboard, there are always areas for improvement. I'm considering adding:
 
-### Data Labels: 
+### ✔️ Data Labels: 
 These would enhance the readability of the bar charts, making it easier to see exact values.
 ### Tooltips: 
 Adding tooltips would allow viewers to access more detailed information on hover.
