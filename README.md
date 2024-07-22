@@ -1,12 +1,11 @@
 # US Sale by PowerBI
 I'm excited to share my latest Power BI project: a dashboard designed to visualize and explore US sales data. I wanted to create a clear and intuitive way to understand key trends and patterns in the data, and this dashboard does just that.
 
-![excel](https://github.com/Sophie-ranj/DataAnalyst_Portfolio_Excel/assets/21998543/8df76a66-900d-4b0c-aa18-c90e08f98505)
 
-![Sales Dashboard Screenshot]([dashboard.jpg](https://postimg.cc/vc7fff8X))
-
-![dashboard.jpg](https://postimg.cc/vc7fff8X)
 [![dashboard.jpg](https://i.postimg.cc/WbC8RwBR/dashboard.jpg)](https://postimg.cc/vc7fff8X)
+
+
+
 ## Dashboard Design Choices
 
 ### ✔️ Top-Level Overview: 
@@ -19,6 +18,8 @@ I included a bar chart for sales by customer segment, as understanding which seg
 Recognizing that viewers might want to delve into specific details, I included slicers for Region, State, and City, enabling interactive filtering of the data.
 ### ✔️ Sub-Category Exploration: 
 To provide an even more granular view, I added a bar chart showcasing sales by sub-category, allowing for a deeper understanding of product performance.
+
+
 
 
 
