@@ -6,6 +6,7 @@ I'm excited to share my latest Power BI project: a dashboard designed to visuali
 ![Sales Dashboard Screenshot]([dashboard.jpg](https://postimg.cc/vc7fff8X))
 
 ![dashboard.jpg](https://postimg.cc/vc7fff8X)
+[![dashboard.jpg](https://i.postimg.cc/WbC8RwBR/dashboard.jpg)](https://postimg.cc/vc7fff8X)
 ## Dashboard Design Choices
 
 ### ✔️ Top-Level Overview: 
