@@ -2,7 +2,7 @@
 I'm excited to share my latest Power BI project: a dashboard designed to visualize and explore US sales data. I wanted to create a clear and intuitive way to understand key trends and patterns in the data, and this dashboard does just that.
 Dashboard Design Choices
 
-__ Top-Level Overview: __I placed the most important metrics (Sales, Quantity, Profit, Discount) at the top using card visuals for quick reference. I wanted these to be the first things the viewer sees.
+## Top-Level Overview: I placed the most important metrics (Sales, Quantity, Profit, Discount) at the top using card visuals for quick reference. I wanted these to be the first things the viewer sees.
 ## Category Breakdown: I used a bar chart to showcase sales by product category. This allows for easy comparison and identification of top-performing categories.
 ## Geographic Focus: To highlight sales distribution, I used a tree map to visualize sales by city. This makes it simple to spot the major sales hubs.
 ## Customer Segmentation: I included a bar chart for sales by customer segment, as understanding which segments contribute most is crucial for targeted marketing.
