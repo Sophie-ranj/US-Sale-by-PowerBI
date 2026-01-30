@@ -6,6 +6,12 @@ I'm excited to share my latest Power BI project: a dashboard designed to visuali
 
 
 
+## ⬇️ Download
+- [Download the PBIX (US Sale)](./MyPractice05.pbix?raw=1)
+
+
+
+
 ## Dashboard Design Choices
 
 ### ✔️ Top-Level Overview: 
